@@ -1,5 +1,7 @@
 # Matrix generator
-The code is self explanatory.
+The code is self explanatory.  See below for an example.
+
+![](test.png)
 
 ## Required dependencies
 * numpy

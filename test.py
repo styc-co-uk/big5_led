@@ -3,7 +3,7 @@
 import numpy as np
 from bin_char import *
 
-tstr = '道路研究社長今日臨時收皮'
+tstr = '十月一日西環臨時炒車'
 spacing = 1
 bstr = ()
 
